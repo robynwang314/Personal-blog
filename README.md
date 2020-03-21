@@ -23,7 +23,7 @@ Check back soon!
 <div id="technologies"></div> 
 
 ## Built With ##
-This personal blog integrates the following: 
+This personal blog integrates the following: <br/>
 <a href="#">GitHub & Git commands</a>
 
 -------
