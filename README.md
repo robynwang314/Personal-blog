@@ -1,9 +1,8 @@
 # Personal Blog #
 
 Personal Blog mock up using HTML/CSS, to practice using various git commands and version control techniques used in the collaboration process.
-
 <br/><br/>
-<b>Other Tools & Languages:</b> 
+<b>Other Tools & Languages: Javascript</b> 
 
 ## Table of Contents ##
 <ul> 
@@ -25,7 +24,7 @@ Check back soon!
 
 ## Built With ##
 This personal blog integrates the following: 
-<ul><a href="#">GitHub & Git commands</a></ul>
+<a href="#">GitHub & Git commands</a>
 
 -------
 
