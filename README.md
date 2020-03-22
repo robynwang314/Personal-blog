@@ -57,8 +57,3 @@ This live project can be view at: ----
   <li><a href="https://www.linkedin.com/in/tyrobynwang" target="_blank">LinkedIn</a></li>
   <li><a href="https://github.com/robynwang314" target="_blank">GitHub</a></li>
 </ul>
-
-
-
-
-
