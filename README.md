@@ -8,7 +8,6 @@ Personal Blog mock up using HTML/CSS, to practice using various git commands and
 <ul> 
   <li><a href="#about"> About </a></li>
   <li><a href="#technologies"> Built With </a></li>
-  <li><a href="#setup"> Getting Started </a></li>
   <li><a href="#usage"> Deployment </a></li>
   <li><a href="#contact"> Contact</a></li>
 </ul>
@@ -23,26 +22,13 @@ Check back soon!
 <div id="technologies"></div> 
 
 ## Built With ##
-This personal blog integrates the following: <br/>
-<a href="#">GitHub & Git commands</a>
-
--------
-
-
-<div id="setup"></div> 
-
-## Getting Started ##
------
-
-### Set Up Database ###
-
-------
+This personal blog integrates <a href="#">GitHub & Git commands</a>
 
 
 <div id="usage"></div> 
 
 ## Deployment ##
-This live project can be view at: ----
+This live project can be view at: https://gitblog-robyn-wang.herokuapp.com/
 
 ### Screenshots ###
 
